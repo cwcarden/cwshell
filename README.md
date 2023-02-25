@@ -6,13 +6,8 @@ CWShell is a simple CLI shell that prints a prompt and waits for user input then
 
 Use make or compile natively.
 
-##Usage
-
-To Do: Usage Information
+##TO DO
+To Do: Usage Information, add parsing functionality.
 
 ##License
 Free and Open Source!
-
-##TO DO
-
-Future versions to incorporate Man page, and actual usefullness.
